@@ -35,7 +35,7 @@ The final layer uses softmax activation for multi-class classification.
 ## Results
 
 - **Validation Accuracy**: 88.15%  
-- **Loss**: 0.4389
+- **Loss**: 0.4389 
 
 ## Conclusion
 
